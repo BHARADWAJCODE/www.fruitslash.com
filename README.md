@@ -1,2 +1,2 @@
-# bharadwajcode.githu.io/www.fruitslash.com
+# bharadwajcode.github.io/www.fruitslash.com
 &copy; Copyright 2022 DVRSCODES
